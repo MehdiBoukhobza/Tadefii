@@ -6,7 +6,6 @@ import Hero from "./components/Hero";
 import Investor from "./components/Investor";
 import Navbar from "./components/Navbar";
 import Products from "./components/Products";
-import {Router, Routes} from 'react-router-dom'  
 
 
 
