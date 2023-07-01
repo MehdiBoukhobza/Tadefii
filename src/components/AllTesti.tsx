@@ -8,7 +8,7 @@ const AllTesti = () => {
       <section id="testimonials">
         <div className="bg-[#F5F5F5] py-5">
             <div className="mb-8 mt-8 text-center">
-              <h2 className="text-4xl font-JosefinSans pb-3  text-gray-600">
+              <h2 className="text-4xl font-JosefinSans pb-3 px-12 md:px-0 text-gray-600">
                 Our Soap Fans Speak !
               </h2>
               <p className="font-JosefinSans text-lg text-gray-400">

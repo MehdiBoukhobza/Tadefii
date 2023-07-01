@@ -7,7 +7,7 @@ const Hero = () => {
       <section id="hero">
         <div className="relative">
           <img src={picHero} alt="Hero" className="lg:w-[1540px] lg:h-[682px]" />
-          <div className="absolute inset-0 flex flex-col items-center justify-center text-center lg:gap-6 md:gap-4 lg:mb-48 md:mb-40 mb-24 gap-1 ">
+          <div className="absolute inset-0 flex flex-col items-center justify-center text-center lg:gap-6 md:gap-4 lg:mb-48 md:mb-40 mb-16 gap-1 ">
             <p className="font-PlayFair font-medium text-[#34746b] lg:text-3xl md:text-2xl text-lg">
               Organic All Natural
             </p>
