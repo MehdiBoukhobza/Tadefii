@@ -1,9 +1,7 @@
 import miel from "../assets/miel.jpg";
 import hibiscus2 from "../assets/hibiscus2.jpg";
 
-
 const Products = () => {
-
   return (
     <>
       <section id="products">
@@ -17,7 +15,7 @@ const Products = () => {
           <div className=" hover:translate-y-[-.5rem] ease-in-out duration-500 rounded-lg shadow-lg flex flex-col border border-[#34746b] w-[21rem] md:w-[25rem] justify-center items-center text-center gap-4 pb-7">
             <img className="rounded-t-lg h-[17rem] mx-auto" src={miel} alt="" />
             <h1 className="font-JosefinSans  text-2xl text-slate-600">
-              Honey & Argan Oil Soap
+              Honey Oat Soap
             </h1>
             <p className="font-JosefinSans text-lg text-[#918061] font-medium">
               35 Dh - 45 Dh

@@ -39,7 +39,7 @@ const Contact = () => {
                 +212 660-016-597 / +212 689-919-944
               </p>
               <p className="text-xl text-gray-700 pb-2 font-medium">Email</p>
-              <p className="text-gray-800 text-lg">argawaahmoiaae@gmail.com</p>
+              <p className="text-gray-800 text-lg">tadeficontact@gmail.com</p>
             </div>
           </div>
         </div>
