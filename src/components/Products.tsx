@@ -9,7 +9,7 @@ const Products = () => {
           We Make{" "}
         </h1>
         <p className="font-JosefinSans px-2 text-center text-lg text-gray-400 pb-6">
-          HandMade Soaps With Love ❤️ & Care 🤗
+          HandMade soaps with love & care
         </p>
         <div className="flex flex-col md:flex-row justify-center items-center  text-center p-10 gap-16">
           <div className=" hover:translate-y-[-.5rem] ease-in-out duration-500 rounded-lg shadow-lg flex flex-col border border-[#34746b] w-[21rem] md:w-[25rem] justify-center items-center text-center gap-4 pb-7">

@@ -17,13 +17,13 @@ const AllTesti = () => {
             </div>
             <div className="grid grid-cols-1  md:grid-cols-3 gap-6 px-7 lg:px-10 mb-6 ">
               <Testimonials
-                name="LAMNOUAR Imane"
+                name="LAHLOU Ghita"
                 text="I'm absolutely thrilled with your Honey Oat soap!
                     The scent is heavenly, and it has done wonders for my skin.
                     I love that it's gentle, vegan-friendly, and free from harsh additives.
                     Thank you for creating such an exceptional product that has made my skin care
                     routine a joy!"
-                job="Cosmetologist"
+                job="Influencer"
               />
               <Testimonials
                 name="AAOUITA Jalal "
@@ -31,7 +31,7 @@ const AllTesti = () => {
                 job="Entrepreneur "
               />
               <Testimonials
-                name="SEHAKI Iliyas"
+                name="OULHAJ Rania"
                 text="I want to thank you so much for making such a fine product. I'm
                         currently using the Argan Hibiscus soap and it is fabulous. It is
                         great to know that your soap is vegan-friendly with no harsh
